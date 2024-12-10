@@ -11161,6 +11161,13 @@ footer a:hover, footer a:active, footer a:focus {
   }
 }
 
-.logo {
+@media screen and (max-width: 600px) {
+  .Nie-logo {
+    width: 320px;
     border-radius: 50%;
+  }
+}
+
+.Nie-logo {
+  border-radius: 50%;
 }
