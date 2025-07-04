@@ -11173,4 +11173,9 @@ footer a:hover, footer a:active, footer a:focus {
 }
 
 .send-button:hover {
-  background-color: 
+  background-color: rgb(185, 125, 136);
+}
+
+.send-button:active {
+  opacity: 0.6;
+}
